@@ -1,0 +1,33 @@
+main {
+padding: 30px;
+font-size: 0;
+}
+.upper {
+height: 200px;
+width: 50%;
+border: 1px solid black;
+display: inline-block;
+font-size: 0;
+}
+.lower {
+height: 300px;
+width: 33.33%;
+border: 1px solid black;
+display: inline-block;
+font-size: 0;
+}
+.box-green {
+background-color: green;
+}
+.box-blue {
+background-color: blue;
+}
+.box-gray {
+background-color: gray;
+}
+.box-black {
+background-color: black;
+}
+.box-orange {
+background-color: orange;
+}
